@@ -1,4 +1,4 @@
-# SERPs Launcher
+# SERPs Launcher for F1 25
 
 The SERPs Launcher for F1 25 is an application which will install mods into your game directory for you! Simply set your game directory, drag and drop any downloaded mod onto the app, select it in the mod list, and launch F1 25!
 
